@@ -1,12 +1,6 @@
 #### Hello👋🏻
-#### About me
 
 I'm a dedicated developer with 1.5 years of hands-on experience in React and React Native. I specialize in crafting responsive interfaces and creating cross-platform mobile applications. My expertise lies in building reusable components, optimizing performance, and delivering elegant code. I thrive on collaborative environments and constantly seek growth opportunities to innovate and create impactful user experiences.
-
-
-#### Contact Me
-
-
 
 
 ### 🌐 Socials:
